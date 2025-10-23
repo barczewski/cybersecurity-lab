@@ -1,0 +1,13 @@
+# Environment files
+.env
+
+# Docker data volumes
+data/
+etc/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
