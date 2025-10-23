@@ -1,11 +1,11 @@
-# 🛡️ Cybersecurity Lab Portfolio
+#  Cybersecurity Lab Portfolio
 
 This repository documents hands-on projects and detections built while learning **SIEM**, **EDR**, and **SOAR** technologies such as **Splunk**, **CrowdStrike Falcon**, **Cribl**, and **Splunk SOAR**.
 It follows a 12-week roadmap designed to build practical blue-team engineering skills.
 
 ---
 
-## 📁 Folder Structure
+##  Folder Structure
 
 ```
 cybersecurity-lab/
@@ -40,7 +40,7 @@ cybersecurity-lab/
 
 ---
 
-## 📚 Folder Purpose
+##  Folder Purpose
 
 ### `detections/`
 
@@ -71,7 +71,7 @@ Start with:
 
 ---
 
-## 🗓️ Suggested Use
+##  Suggested Use
 
 1. Clone this repository:
 
@@ -98,7 +98,7 @@ Start with:
 
 ---
 
-## 📄 Example Detection Template (`docs/detection_templates.md`)
+##  Example Detection Template (`docs/detection_templates.md`)
 
 | Field               | Description                                               |
 | ------------------- | --------------------------------------------------------- |
@@ -112,7 +112,7 @@ Start with:
 
 ---
 
-## 🧩 Example SOAR Playbook Summary (`docs/soar_workflow_notes.md`)
+##  Example SOAR Playbook Summary (`docs/soar_workflow_notes.md`)
 
 **Name:** IP Enrichment & Jira Ticket
 **Trigger:** Splunk alert for suspicious IP activity
@@ -124,7 +124,7 @@ Start with:
 
 ---
 
-## 🚀 End Goal
+##  End Goal
 
 By the end of the 12-week program, this repository will include:
 
