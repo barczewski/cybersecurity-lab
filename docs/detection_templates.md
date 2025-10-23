@@ -12,7 +12,7 @@ Use this template to document every detection or correlation search you create.
 | **Response Action**   | Trigger SOAR playbook for enrichment and ticket creation  |
 | **Validation Method** | Simulated process execution in test VM                    |
 | **Created On**        | 2025-10-21                                                |
-| **Author**            | Jon Car                                                   |
+| **Author**            | Tim Barczewski                                            |
 
 ---
 
